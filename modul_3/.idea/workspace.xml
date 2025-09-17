@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df45363f-8356-40fb-b77f-8c10676080b0" name="Changes" comment="modul_3" />
+    <list default="true" id="df45363f-8356-40fb-b77f-8c10676080b0" name="Changes" comment="modul_3">
+      <change afterPath="$PROJECT_DIR$/src/lesson2/generic_example/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/generic_example/Holder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/generic_example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework1/MultiPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework2/TripleBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework3/Swapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework5/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/homeworks/homework5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok4/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok4/InsufficientBalanceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modul_3/lesson1/homewrok5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok4/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok4/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok4/InsufficientBalanceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok4/InsufficientBalanceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/homewrok5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/homework/homewrok5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,29 +51,57 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ilhomjonov-ogabek/Java_modul_3.git",
-    "accountId": "a93d8ca9-2ba0-49a7-a485-c1ba59696324"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ilhomjonov-ogabek&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ilhomjonov-ogabek/Java_modul_3.git&quot;,
+    &quot;accountId&quot;: &quot;a93d8ca9-2ba0-49a7-a485-c1ba59696324&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32oL7fLLoXqEKo2byr9iiUEog1M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GenericTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.lesson1.homework.homewrok4.Main.executor": "Debug",
+    "Application.lesson1.homework.homewrok5.Main.executor": "Run",
     "Application.lesson1.homewrok2.Main.executor": "Run",
     "Application.lesson1.homewrok3.Main.executor": "Run",
     "Application.lesson1.homewrok4.Main.executor": "Run",
     "Application.lesson1.homewrok5.Main.executor": "Run",
-    "git-widget-placeholder": "lesson__2"
+    "Application.lesson2.Main.executor": "Run",
+    "Application.lesson2.homeworks.homework1.Main.executor": "Run",
+    "Application.lesson2.homeworks.homework3.Main.executor": "Run",
+    "Application.lesson2.homeworks.homework4.Main.executor": "Run",
+    "Application.lesson2.homeworks.homework5.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "lesson__2",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lesson1.homewrok5.Main">
+  <component name="RunManager" selected="Application.lesson2.homeworks.homework5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.homewrok1.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.homeworks.homework2.Main" />
       <module name="modul_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.homewrok1.*" />
+          <option name="PATTERN" value="lesson2.homeworks.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1.homewrok2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.homewrok2.Main" />
+    <configuration name="lesson2.homeworks.homework1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homeworks.homework1.Main" />
       <module name="modul_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.homewrok2.*" />
+          <option name="PATTERN" value="lesson2.homeworks.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1.homewrok3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.homewrok3.Main" />
+    <configuration name="lesson2.homeworks.homework3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homeworks.homework3.Main" />
       <module name="modul_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.homewrok3.*" />
+          <option name="PATTERN" value="lesson2.homeworks.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1.homewrok4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.homewrok4.Main" />
+    <configuration name="lesson2.homeworks.homework4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homeworks.homework4.Main" />
       <module name="modul_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.homewrok4.*" />
+          <option name="PATTERN" value="lesson2.homeworks.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,28 +148,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1.homewrok5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.homewrok5.Main" />
+    <configuration name="lesson2.homeworks.homework5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homeworks.homework5.Main" />
       <module name="modul_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.homewrok5.*" />
+          <option name="PATTERN" value="lesson2.homeworks.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson1.homewrok5.Main" />
-        <item itemvalue="Application.lesson1.homewrok4.Main" />
-        <item itemvalue="Application.lesson1.homewrok3.Main" />
-        <item itemvalue="Application.lesson1.homewrok2.Main" />
+        <item itemvalue="Application.lesson2.homeworks.homework5.Main" />
+        <item itemvalue="Application.lesson2.homeworks.homework4.Main" />
+        <item itemvalue="Application.lesson2.homeworks.homework3.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson2.homeworks.homework1.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="modul_3">
@@ -122,7 +196,30 @@
       <option name="project" value="LOCAL" />
       <updated>1758040107519</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modul_3">
+      <option name="closed" value="true" />
+      <created>1758040300831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758040300831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modul_3">
+      <option name="closed" value="true" />
+      <created>1758040313044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758040313044</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df45363f-8356-40fb-b77f-8c10676080b0" name="Changes" comment="modul_3" />
+      <created>1758081814160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758081814160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
