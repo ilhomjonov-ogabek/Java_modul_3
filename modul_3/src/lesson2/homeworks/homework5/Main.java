@@ -7,7 +7,7 @@ public class Main {
     list.add(1,"hello");
     list.add(2,"hello2");
     list.add(10,"hello3");
-    list.get(10);
+    list.get(2);
   }
 
 }
